@@ -2,19 +2,6 @@
 
 A modern, responsive React e-commerce website for a premium wallet shop, built with React, Tailwind CSS, and Framer Motion for animations.
 
-## Features
-
-- 🛒 Full e-commerce UI with product listings
-- 📱 Fully responsive design (mobile, tablet, desktop)
-- ✨ Smooth animations and transitions using Framer Motion
-- 🎨 Modern, elegant design with premium aesthetics
-- 🔍 Interactive product cards with hover effects
-- 📰 Newsletter subscription with validation
-- ⏰ Countdown timer for special offers
-- 💬 Customer testimonials section
-- 🛍️ Shopping cart icon with badge
-- 🔎 Search functionality UI
-
 ## Project Structure
 
 ```
@@ -87,36 +74,6 @@ wallet-shop/
 - `npm run lint` - Run ESLint
 
 ## Customization
-
-### Colors
-
-The project uses a custom color palette defined in `tailwind.config.js`:
-
-- Primary: `#1a1a1a`
-- Secondary: `#f5f5f5`
-- Accent: `#c9a86c`
-
-### Fonts
-
-- Headings: Playfair Display (serif)
-- Body: Inter (sans-serif)
-
-## Design Highlights
-
-- **Hero Section**: Full-screen hero with animated background pattern, CTA buttons, and floating discount badge
-- **Category Grid**: 4-column grid showcasing product categories with hover zoom effects
-- **Product Cards**: Interactive cards with quick action buttons (wishlist, share) and "Add to Cart" on hover
-- **Special Offer**: Dark section with countdown timer and animated discount badge
-- **Testimonials**: Customer reviews with ratings and trust badges
-- **Newsletter**: Subscription form with social media links
-- **Footer**: Comprehensive footer with navigation links and contact information
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
 ## License
 
